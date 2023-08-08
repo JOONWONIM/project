@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JOONWONIM&fontSize=90" />
 # 프로젝트 소개
 
 주류정보사이트는 다양한 종류의 주류에 관한 정보를 제공하는 온라인 플랫폼입니다.<br>
@@ -7,7 +8,10 @@
 <br>
 <br>
 <br>
-
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
 # 개발 스택
 ![Java 뱃지](https://img.shields.io/badge/language-Java-orange)&nbsp;![JavaScript 뱃지](https://img.shields.io/badge/language-JavaScript-yellow)&nbsp;![HTML5 뱃지](https://img.shields.io/badge/language-HTML5-blue)&nbsp;![CSS 뱃지](https://img.shields.io/badge/language-CSS3-blueviolet)<br>![MySQL 뱃지](https://img.shields.io/badge/database-MySQL-blue)<br>
 ![Spring Boot 뱃지](https://img.shields.io/badge/framework-Spring%20Boot-brightgreen)
