@@ -126,7 +126,7 @@
 
 <details>
 <summary>챗봇</summary>
-</details>
+
 ![채팅화면](https://raw.githubusercontent.com/geon1098/IMG_project-1/master/%EC%B1%97%EB%B4%87%20.png)
 </details>
 
