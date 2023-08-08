@@ -12,14 +12,24 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
-# 개발 스택
-![Java 뱃지](https://img.shields.io/badge/language-Java-orange)&nbsp;![JavaScript 뱃지](https://img.shields.io/badge/language-JavaScript-yellow)&nbsp;![HTML5 뱃지](https://img.shields.io/badge/language-HTML5-blue)&nbsp;![CSS 뱃지](https://img.shields.io/badge/language-CSS3-blueviolet)<br>![MySQL 뱃지](https://img.shields.io/badge/database-MySQL-blue)<br>
-![Spring Boot 뱃지](https://img.shields.io/badge/framework-Spring%20Boot-brightgreen)
-<br>![Bootstrap 뱃지](https://img.shields.io/badge/library-Bootstrap-blueviolet)
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	
+	
+	<br>
+	
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	
+</div>
 <br>
-<br>
-<br>
-<br>
+
 # 팀
 임준원: 주류상세정보 및 데이터베이스<br>
 
